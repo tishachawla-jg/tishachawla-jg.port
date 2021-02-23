@@ -33,11 +33,11 @@ body{
    
 }
 .col-sm img
-{ 
-   border: 0rem aqua;
-   padding-top: 4rem;
+{  
+   align-items: center;
+   padding-top: 2rem;
    background-color: black;
-   height: 33vw;
+  
     
     
     
