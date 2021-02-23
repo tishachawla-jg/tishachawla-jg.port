@@ -2,14 +2,16 @@
 body{
 
     background-color: black;
+    align-items: center;
     
 }
-.card bg-dark text-white
+.card bg-dark text-white video 
 {
     
     background-size: cover;
     width: 100%;
     height: 100vh;
+    height: 100%;
     
     align-items: center;
     justify-content: center;
@@ -35,6 +37,7 @@ body{
    border: 0rem aqua;
    padding-top: 4rem;
    background-color: black;
+   height: 33vw;
     
     
     
@@ -62,14 +65,14 @@ body{
     padding-top: 4rem;
 }
 .container  h2
-{    
+{    align-items: center;
     padding-top: 3rem;
     color: brown;
     text-transform: uppercase;
 }
 
 .container img
-{   
+{   align-items: center;
      width: 100%;
      height: 18rem;
      padding-right: 8rem;
@@ -79,6 +82,14 @@ body{
     background-color: tomato;
     color: white;
 }
+.contactInfoBx h1{
+    text-align: center;
+    font-weight: 800;
+    color: brown;
+    font-size: 5rem;
+    padding-top: 4rem;
+}
+.cont
 
 .contactInfoBx i,h3,p
 {   padding-left: 0;
