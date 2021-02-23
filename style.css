@@ -23,7 +23,7 @@ body{
 {   
 
     color: teal;
-    padding-left: 4rem;
+    padding-left: 3rem;
     font-size: 2rem;
     padding-top: 4rem;
     font-style: italic;
@@ -37,8 +37,8 @@ body{
    align-items: center;
    padding-top: 2rem;
    background-color: black;
-   padding-left: 4rem;
-   height: 33vw;
+   padding-left: 3rem;
+   height: 36vw;
   
     
     
@@ -78,7 +78,7 @@ body{
 {   align-items: center;
      width: 100%;
      height: 18rem;
-     padding-left: 4rem;
+     padding-left: 3rem;
 }
 .container h2:hover
 {
