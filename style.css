@@ -23,7 +23,7 @@ body{
 {   
 
     color: teal;
-    padding-left: 3rem;
+    padding-left: 1rem;
     font-size: 2rem;
     padding-top: 4rem;
     font-style: italic;
@@ -33,11 +33,11 @@ body{
    
 }
 .col-sm img
-{  
+{  min-height: 33vw;
    align-items: center;
    padding-top: 2rem;
    background-color: black;
-   padding-left: 3rem;
+   padding-left: 2rem;
    height: 36vw;
      width: 100%;
   
@@ -76,10 +76,11 @@ body{
 }
 
 .container img
-{   align-items: center;
+{    align-items: center;
      width: 100%;
+    min-height: 18rem;
      height: 18rem;
-     padding-left: 3rem;
+     padding-left: 2rem;
      width: 100%;
 }
 .container h2:hover
