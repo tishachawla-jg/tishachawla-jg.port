@@ -8,6 +8,7 @@ body{
 .card bg-dark text-white video 
 {
     min-height: 100vw;
+    min-height:100%;
     background-size: cover;
     width: 100%;
     height: 100vw;
@@ -33,12 +34,12 @@ body{
    
 }
 .col-sm img
-{  min-height: 36vw;
+{  min-height: 40vw;
    align-items: center;
    padding-top: 2rem;
    background-color: black;
-   padding-left: 2rem;
-   height: 38vw;
+  
+   height: 40vw;
      width: 100%;
   
     
@@ -72,14 +73,14 @@ body{
     padding-top: 3rem;
     color: brown;
     text-transform: uppercase;
-    padding-left: 4rem;
+    padding-left: 1rem;
 }
 
 .container img
-{    align-items: center;
+{ 
      width: 100%;
-    min-height: 18rem;
-     height: 18rem;
+    min-height: 20rem;
+     height: 20rem;
   
      width: 100%;
 }
