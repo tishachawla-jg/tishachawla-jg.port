@@ -7,10 +7,10 @@ body{
 }
 .card bg-dark text-white video 
 {
-    
+    min-height: 100vw;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    height: 100vw;
     height: 100%;
     
     align-items: center;
@@ -33,12 +33,12 @@ body{
    
 }
 .col-sm img
-{  min-height: 33vw;
+{  min-height: 36vw;
    align-items: center;
    padding-top: 2rem;
    background-color: black;
    padding-left: 2rem;
-   height: 36vw;
+   height: 38vw;
      width: 100%;
   
     
@@ -72,7 +72,7 @@ body{
     padding-top: 3rem;
     color: brown;
     text-transform: uppercase;
-    padding-left: 8rem;
+    padding-left: 4rem;
 }
 
 .container img
@@ -80,7 +80,7 @@ body{
      width: 100%;
     min-height: 18rem;
      height: 18rem;
-     padding-left: 2rem;
+  
      width: 100%;
 }
 .container h2:hover
