@@ -22,7 +22,8 @@ body{
 
 .col-sm h3
 {   
-
+   text-align: left;
+   font-family: 'Times New Roman', Times, serif;
     color: teal;
     padding-left: 1rem;
     font-size: 2rem;
@@ -40,7 +41,7 @@ body{
    background-color: black;
   
    height: 40vw;
-     width: 100%;
+    width: 100%;
   
     
     
@@ -53,7 +54,8 @@ body{
      font-size: 2rem;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    font-style: italic;
+    text-align: left;
+   font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color: white;
 }
@@ -74,6 +76,7 @@ body{
     color: brown;
     text-transform: uppercase;
     padding-left: 5rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .container img
@@ -90,6 +93,8 @@ body{
     color: white;
 }
 .contactInfoBx h1{
+    
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: 800;
     color: brown;
@@ -128,7 +133,7 @@ display: flex;
 flex-direction: column;
 }
 .formbx form h3
-{
+{   font-family: 'Times New Roman', Times, serif;
     color:#fff;
     font-size:20px;
     font-weight:500 ;
