@@ -29,7 +29,7 @@ body{
     font-size: 2rem;
     padding-top: 4rem;
     font-style: italic;
-    text-align: center;
+  
    
    
    
@@ -56,7 +56,7 @@ body{
     padding-bottom: 4rem;
     text-align: left;
    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+   
     color: white;
 }
 .one h6:hover,.two h6:hover
@@ -69,6 +69,7 @@ body{
     color: brown;
     font-size: 5rem;
     padding-top: 4rem;
+     font-family: 'Times New Roman', Times, serif;
 }
 .container  h2
 {   align-items: center;
