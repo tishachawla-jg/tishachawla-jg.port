@@ -60,9 +60,9 @@ body{
     color: white;
 }
 .one h6:hover,.two h6:hover
-{   background-color: teal;
-    color:black;
-    transform: scale(1.3);
+{  
+    
+    transform: scale(1.1);
 }
 .container h1{
     text-align: center;
