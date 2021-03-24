@@ -91,7 +91,7 @@ body{
 }
 .container h2:hover
 {
-    background-color: cyan;
+    background-color: teal;
     color: white;
     transform: scale(1.3);
 }
